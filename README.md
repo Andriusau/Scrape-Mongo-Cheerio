@@ -1,5 +1,6 @@
 # **MongoDB/Mongoose NYT web-scraper**
 
+WORKS 
 
 ## Technologies used:
 * Node.js
