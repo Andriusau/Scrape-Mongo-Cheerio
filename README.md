@@ -1,6 +1,6 @@
 # **MongoDB/Mongoose NYT web-scraper**
 
-WORKS 
+WORKS need 2 update
 
 ## Technologies used:
 * Node.js
